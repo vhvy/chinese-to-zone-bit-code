@@ -1,0 +1,25 @@
+{
+  "name": "chinese-to-zone-bit-code",
+  "version": "1.0.0",
+  "description": "将常见汉字转换为区位码",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhvy/chinese-to-zone-bit-code.git"
+  },
+  "keywords": [
+    "zone-bit-code",
+    "vhvy"
+  ],
+  "author": "vhvy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhvy/chinese-to-zone-bit-code/issues"
+  },
+  "homepage": "https://github.com/vhvy/chinese-to-zone-bit-code#readme"
+}
